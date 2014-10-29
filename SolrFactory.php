@@ -3,7 +3,7 @@ require_once(dirname(__file__) . DS . 'Solr4Component.php');
 require_once(dirname(__file__) . DS . 'Solr4CurlJsonReader.php');
 require_once(dirname(__file__) . DS . 'Solr4CurlJsonWriter.php');
 
-class LorealSolrFactory
+class SolrFactory
 {
     private function __construct()
     {
