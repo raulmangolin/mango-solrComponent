@@ -12,5 +12,8 @@
         "php": ">=5.3.3",
         "ext-curl": "*",
         "composer/installers": "*"
+    },
+    "autoload": {
+        "psr-0": { "SolrComponent": "src/" }
     }
 }
