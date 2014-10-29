@@ -1,0 +1,13 @@
+{
+    "name": "raulmangolin/solr-component",
+    "description": "simple php solr component",
+    "authors": [
+        {
+            "name": "Raul Mangolin",
+            "email": "eu@raulmangolin.com"
+        }
+    ],
+    "require": {
+
+    }
+}
