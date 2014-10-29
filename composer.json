@@ -1,6 +1,7 @@
 {
     "name": "raulmangolin/solr-component",
     "description": "simple php solr component",
+    "license": "Apache",
     "authors": [
         {
             "name": "Raul Mangolin",
@@ -8,6 +9,8 @@
         }
     ],
     "require": {
-
+        "php": ">=5.3.3",
+        "ext-curl": "*",
+        "composer/installers": "*"
     }
 }
